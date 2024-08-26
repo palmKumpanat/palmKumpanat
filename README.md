@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kumpanat.joom@gmail.com**
 
-- Portfolio : <a href="https://palmkumpanat.github.io/MyPortFolio/" target="_blank">Portfolio</a>
+- Portfolio : https://palmkumpanat.github.io/MyPortFolio/
 
 <p align="left">
 </p>
